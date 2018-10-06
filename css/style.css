@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,15 @@ header {
     height: 50px;
     background: black;
     color: white;
-    margin: 0 auto;
-    width: 1024px;
-    position: absolute;
-} */
+    text-align: center;
+    padding-top: 10px;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+}
+
+article {
+    margin-top: 20px;
+}
