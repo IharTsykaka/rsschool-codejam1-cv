@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
- background: red;
+ background: white;
  margin: 0 auto;
  width: 1024px;   
 }
@@ -22,9 +22,9 @@ img {
 }
 
 article {
-    margin-top: 15px;
+    margin-top: 25px;
 }
 
 p {
-    margin-top: 5px;
+    margin-top: 10px;
 }
